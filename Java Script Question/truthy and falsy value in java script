@@ -1,0 +1,5 @@
+if ("") {
+  console.log("OMG , We lose the game");
+} else {
+  console.log("YAY , We won the match");
+}
